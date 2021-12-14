@@ -1,0 +1,21 @@
+Order #1
+Customer: John Doe
+Phone #: 555-555-5555
+Address: 123 Main St. Marietta, GA 30060
+Items:
+(3) Side - Bread Sticks - $12.00
+Subtotal: 12.00
+Tax: $0.48
+Total: $12.48
+Order #2
+Customer: Sally Mae
+Phone #: 123-456-7890
+Address: hello
+Items:
+(4) Pizza - Extra Large, Pan Crust, Green Peppers, Ham - $50.00
+(10) Drink - Medium Pepsi - $10.00
+(2) Side - Bread Bites - $4.00
+(7) Side - Chocolate Chip Cookie - $28.00
+Subtotal: 92.00
+Tax: $3.68
+Total: $95.68
